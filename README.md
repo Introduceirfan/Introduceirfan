@@ -1,19 +1,46 @@
-<h1 align="center">Hi 👋, I'm Irfan/Naufal/Mage</h1>
-<h3 align="center">Lifelong Learner.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magentropy&label=Profile%20views&color=0e75b6&style=flat" alt="magentropy" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Irfan+%2F+Naufal+%2F+Mage;Lifelong+Learner.;Building+in+Public+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magentropy&" alt="magentropy" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=magentropy&color=58a6ff&style=flat-square&label=Profile+Views)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS**
+</div>
 
-- 📫 How to reach me **febriannaufalirfansyah@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magentropy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=magentropy&theme=github-dark-blue&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+### 🛠 Languages & Tools
+
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
 
+### 🎵 Spotify Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kxi26jocfcqhfhipwewon342ji&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+<div align="center">
+  <sub>📫 febriannaufalirfansyah@gmail.com</sub>
+</div>
