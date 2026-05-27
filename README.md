@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Mage
+# Hi 👋, I'm Irfan
 ### Lifelong Learner · Trying to be Better :)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/introduceirfan)
