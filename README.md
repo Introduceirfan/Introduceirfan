@@ -16,9 +16,9 @@
 <div align="center">
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=magentropy&theme=github-dark-blue&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=introduceirfan&theme=github-dark-blue&hide_border=true&background=0d1117)
 
-![Contribution Grid](https://ghchart.rshah.org/58a6ff/magentropy)
+![Contribution Grid](https://ghchart.rshah.org/58a6ff/introduceirfan)
 
 </div>
 
