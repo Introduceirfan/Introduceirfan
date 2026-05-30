@@ -5,7 +5,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/introduceirfan)
 
-![Profile Views](https://komarev.com/ghpvc/?username=magentropy&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=introduceirfan&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
