@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi 👋, I'm Irfan
-### Lifelong Learner · Trying to be Better :)
+# Hi , I'm Irfan
+### Self-proclaimed Lifelong Learner 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/introduceirfan)
 
